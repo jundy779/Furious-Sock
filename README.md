@@ -1,2 +1,3 @@
-# Furious-Sock
-Android open source VPN client released on
+# SocksHttp
+Cliente SSH Túnnel, simples e rápido.
+
